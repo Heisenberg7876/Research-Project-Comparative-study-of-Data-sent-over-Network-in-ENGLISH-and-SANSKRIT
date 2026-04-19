@@ -20,7 +20,12 @@ The study investigates:
 - Transmission speed
 - Semantic compression possibilities
 
+<img width="500" height="607" alt="image" src="https://github.com/user-attachments/assets/b381136c-4fe0-4bb6-8e5e-61eaf415c908" />  
+
 ---
+
+<img width="484" height="585" alt="image" src="https://github.com/user-attachments/assets/c83dd30a-e85d-4cca-8b1e-247ec9332321" />
+
 
 ## 🎯 Objectives
 - Analyze linguistic efficiency in networking
@@ -49,3 +54,5 @@ You may NOT:
 Without explicit written permission.
 
 © 2025 Harihar R. Sharma & Abhijeet A. Kulkarni – All rights reserved.
+
+
