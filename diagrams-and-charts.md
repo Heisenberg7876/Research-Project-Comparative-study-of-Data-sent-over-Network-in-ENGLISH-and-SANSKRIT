@@ -130,3 +130,4 @@ These diagrams demonstrate that Sanskrit may offer:
 * Improved transmission efficiency
 
 compared to English in networking systems.
+
