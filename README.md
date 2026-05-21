@@ -1,13 +1,24 @@
 # Research-Project-Comparative-study-of-Data-sent-over-Network-in-ENGLISH-and-SANSKRIT
-# 📘 Research Project
-## Comparative Study of Data Sent Over Network in English and Sanskrit
 
-### 👨‍🎓 Authors
-- Harihar R. Sharma
-- Abhijeet A. Kulkarni
+<div align="center">
 
-### 🏫 Institution
-Moolji Jaitha College, Jalgaon, Maharashtra
+![Language](https://img.shields.io/badge/Languages-Sanskrit%20%7C%20English-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Java%20Socket%20Programming-blue?style=for-the-badge)
+![Encoding](https://img.shields.io/badge/Encoding-UTF--8-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Institution](https://img.shields.io/badge/Institution-MJ%20College%2C%20Jalgaon-red?style=for-the-badge)
+
+**A research project exploring whether an ancient language can outperform modern English in network data efficiency.**
+
+*Submitted under the Research Promotion Scheme for Budding Researchers — 2024–25*  
+*Moolji Jaitha College, Jalgaon (Affiliated to KBCNMU)*
+
+👨‍🎓 Authors<br>
+<b>
+Harihar R. Sharma <br>
+Abhijeet A. Kulkarni
+</b>
+</div>
 
 ---
 
