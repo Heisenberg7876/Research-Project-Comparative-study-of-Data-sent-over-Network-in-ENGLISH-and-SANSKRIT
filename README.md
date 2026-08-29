@@ -16,7 +16,7 @@
 👨‍🎓 Authors<br>
 <b>
 Harihar R. Sharma <br>
-Abhijeet A. Kulkarni
+Abhijit A. Kulkarni
 </b>
 </div>
 
@@ -64,6 +64,6 @@ You may NOT:
 
 Without explicit written permission.
 
-© 2025 Harihar R. Sharma & Abhijeet A. Kulkarni – All rights reserved.
+© 2025 Harihar R. Sharma & Abhijit A. Kulkarni – All rights reserved.
 
 
